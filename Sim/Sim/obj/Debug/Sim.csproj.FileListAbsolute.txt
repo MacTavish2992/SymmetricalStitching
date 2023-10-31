@@ -1,0 +1,7 @@
+C:\Users\Zver\source\repos\Sim\Sim\bin\Debug\Sim.exe.config
+C:\Users\Zver\source\repos\Sim\Sim\bin\Debug\Sim.exe
+C:\Users\Zver\source\repos\Sim\Sim\bin\Debug\Sim.pdb
+C:\Users\Zver\source\repos\Sim\Sim\obj\Debug\Sim.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\Sim\Sim\obj\Debug\Sim.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Sim\Sim\obj\Debug\Sim.exe
+C:\Users\Zver\source\repos\Sim\Sim\obj\Debug\Sim.pdb
